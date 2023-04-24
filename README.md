@@ -3,7 +3,7 @@ I am a mobile app developer using FLUTTER. who's been doing this stuff for over 
 
 Skills: Flutter - Firebase - Web Services (REST).
 
-🌍   I'm From Egypt.
+🌍   I'm From Egypt.<br>
 🧑   I'm a freelancer ...
 🌱   I'm currently learning more about Flutter, web developement & more ❤️
 
